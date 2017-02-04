@@ -1,2 +1,2 @@
-# my-first-web-map
-This is my 1st web map
+# my-1st-web-map
+This is my first web map
